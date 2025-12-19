@@ -1,2 +1,2 @@
 # zyuznet.github.io
-hello 
+hello 你好
